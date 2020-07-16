@@ -74,7 +74,7 @@
     "url-loader": "^0.5.7",
     "webpack": "^3.0.0",
     "webpack-bundle-analyzer": "^2.8.2",
-    "webpack-dev-server": "~2.4.5",
+    "webpack-dev-server": "~3.11.0",
     "workbox-cli": "^1.2.0"
   },
   "browserslist": [
